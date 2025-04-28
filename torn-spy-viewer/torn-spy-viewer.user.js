@@ -6,8 +6,8 @@
 // @author			Noxwaste [1811486]
 // @match			https://www.torn.com/*
 // @icon			https://www.google.com/s2/favicons?sz=64&domain=torn.com
-// @updateURL		
-// @downloadURL		
+// @updateURL		https://github.com/noxwaste/tampermonkey/raw/refs/heads/main/torn-spy-viewer/torn-spy-viewer.user.js
+// @downloadURL		https://github.com/noxwaste/tampermonkey/raw/refs/heads/main/torn-spy-viewer/torn-spy-viewer.user.js
 // @run-at			document-end
 // @grant			GM.xmlHttpRequest
 // @grant			GM_setValue
